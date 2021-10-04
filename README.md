@@ -1,5 +1,7 @@
 ## Amazon States Language Service
 
+[![Join the chat at https://gitter.im/amazon-states-language-service/community](https://badges.gitter.im/amazon-states-language-service/community.svg)](https://gitter.im/amazon-states-language-service/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Amazon States Language Service is a wrapper around [vscode-json-languageservice](https://github.com/microsoft/vscode-json-languageservice). It extends its functionality with validation, completions and snippets specific to amazon states language. It preserves its interface and can be used as a drop-in replacement for it. 
 
 ## License
